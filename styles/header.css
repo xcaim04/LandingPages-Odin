@@ -83,3 +83,9 @@
     flex-direction: column;
     gap: 15px;
 }
+
+.footer {
+    padding: 25px;
+    color: #ffffffc7;
+    text-align: center;
+}
